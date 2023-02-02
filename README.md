@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Doctober
-- 👀 I’m interested in programming and everything IT
-- 🌱 I’m currently learning game design using Godot, Go programming language and terraform
+- 👀 I’m interested in programming, food and video games
 - 📫 How to reach me @Doctober on Github, Doctober#9327 on Discord
 
 <!---

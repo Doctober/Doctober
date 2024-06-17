@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Doctober
 - 👀 I’m interested in programming, food and video games
-- 📫 How to reach me @Doctober on Github, Doctober on Discord
 
 <!---
 Doctober/Doctober is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
